@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/[2319]判断矩阵是否是一个 X 矩阵.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/[2319]判断矩阵是否是一个 X 矩阵.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2319" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/[2319]判断矩阵是否是一个 X 矩阵.java" />
+              <option name="titleSlug" value="check-if-matrix-is-x-matrix" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
